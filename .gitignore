@@ -3,7 +3,7 @@
 .DS_Store
 
 ### Node ###
-# Logs
+# Logs   
 logs
 *.log
 npm-debug.log*
